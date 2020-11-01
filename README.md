@@ -21,10 +21,10 @@ lpr, lpq, lprm, groups, finger, |, grep
   		Linux Survival
  	</summary>
 
-![screenshot of the course"linux_survival"](/task_linux_cli/Congratulations!.JPG)
-![screenshot of the course"linux_survival"](/task_linux_cli/Quiz1.JPG)
-![screenshot of the course"linux_survival"](/task_linux_cli/Quiz2.JPG)
-![screenshot of the course"linux_survival"](/task_linux_cli/Quiz3.JPG)
-![screenshot of the course"linux_survival"](/task_linux_cli/Quiz4.JPG)
+![linux_survival](/task_linux_cli/Congratulations!.jpg)
+![linux_survival](/task_linux_cli/Quiz1.jpg)
+![linux_survival](/task_linux_cli/Quiz2.jpg)
+![linux_survival](/task_linux_cli/Quiz3.jpg)
+![linux_survival](/task_linux_cli/Quiz4.jpg)
 
 </details>
