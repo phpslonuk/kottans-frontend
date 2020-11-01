@@ -8,7 +8,7 @@ For all new kottans, a little hint on git https://www.youtube.com/watch?v=SUnJ8b
 
 The guide material was very useful, I remembered some points and learned something new
 
-![git_course_udacity](task_linux_cli/Udacity.JPG)
+![git_course_udacity](/phpslonuk/kottans-frontend/blob/main/task_linux_cli/Congratulations!.jpg)
 
 ## Linux CLI, and HTTP
 
