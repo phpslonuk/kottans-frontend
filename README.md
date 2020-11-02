@@ -28,3 +28,10 @@ lpr, lpq, lprm, groups, finger, |, grep
 ![linux_survival](/task_linux_cli/Quiz4.jpg)
 
 </details>
+
+## Git Collaboration
+
+It was a very short course, where they talked about the rebase and upstream.
+I really liked this course!
+
+![Collaboration](/task_git_collaboration/Collaboration.jpg)
