@@ -35,3 +35,9 @@ It was a very short course, where they talked about the rebase and upstream.
 I really liked this course!
 
 ![Collaboration](/task_git_collaboration/Collaboration.jpg)
+
+## Intro to HTML and CSS
+
+![HTML and CSS](/task_html_css_intro/HTML_CSS.jpg)
+![codeCademy](/task_html_css_intro/codeCademy.jpg)
+
