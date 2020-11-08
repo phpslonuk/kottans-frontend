@@ -38,6 +38,17 @@ I really liked this course!
 
 ## Intro to HTML and CSS
 
+I have never used grid before. Now I have looked at them from another angle and intend to use in the future
+
 ![HTML and CSS](/task_html_css_intro/HTML_CSS.jpg)
 ![codeCademy](/task_html_css_intro/codeCademy.jpg)
+
+## Responsive Web Design
+
+Udacity very cool shows how and why to use adaptive design.Very cool green frogs =)
+
+![Udacity Responsive Web Design](/task_responsive_web_design/Responsive.jpg)
+![Flexbox Froggy](/task_responsive_web_design/Flexbox_Froggy.jpg)
+
+
 
