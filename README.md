@@ -52,5 +52,7 @@ Udacity very cool shows how and why to use adaptive design.Very cool green frogs
 
 ![GRID GARDEN](/task_responsive_web_design/GRID_GARDEN.jpg)
 
+## JS Basics
 
+![Udacity](/task_js_basics/Udacity_JavaScript.jpg)
 
