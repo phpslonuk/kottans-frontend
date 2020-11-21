@@ -56,3 +56,12 @@ Udacity very cool shows how and why to use adaptive design.Very cool green frogs
 
 ![Udacity](/task_js_basics/Udacity_JavaScript.jpg)
 
+<details>
+	<summary>
+  		freeCodeCamp
+ 	</summary>
+
+![Basic JS](/task_js_basics/Basic_JavaScript.jpg)
+
+
+</details>
