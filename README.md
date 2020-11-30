@@ -63,7 +63,10 @@ Udacity very cool shows how and why to use adaptive design.Very cool green frogs
 
 ![Basic JS](/task_js_basics/Basic_JavaScript.jpg)
 ![ES6](/task_js_basics/ES6.jpg)
-![Basic_Data_Structures](/task_js_basics/Basic_Data_Structures.jpg)
+![Basic Data Structures](/task_js_basics/Basic_Data_Structures.jpg)
+![Basic Algorithm Scripting](/task_js_basics/Basic_A_S.jpg)
+![Functional Programming](/task_js_basics/Functional_Programming.jpg)
+![Intermediate Algorithm Scripting](/task_js_basics/Intermediate_Algorithm_Scripting.jpg)
 
 
 </details>
