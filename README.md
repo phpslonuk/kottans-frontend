@@ -70,3 +70,7 @@ Udacity very cool shows how and why to use adaptive design.Very cool green frogs
 
 
 </details>
+
+## DOM
+
+![Algorithm Scripting Challenges](/task_js_dom/Algorithm_Scripting_Challenges.jpg)
